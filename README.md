@@ -1,4 +1,3 @@
 # FreedomDefender
 
-### Anti Great Firewall
-
+### Break the Great Firewall
